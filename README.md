@@ -8,7 +8,7 @@
     🔭 Atualmente estou trabalhando no projeto <a href="https://github.com/othavioquiliao/IndicaHi">IndicaHi</a><br/>
     🌱 Estou estudando <strong>Next, Astro e Svelte 5!</strong>
 </div>
-
+<br/>
 <div align="center">
     <a href="https://www.linkedin.com/in/othavioquiliao/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -46,10 +46,7 @@
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
 </div>
 
-<br/>
-
 <div align="center">
-    <h2>🐍 Contribuições 🐍</h2>
     <img alt="Cobra comendo minhas contribuiçao" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
