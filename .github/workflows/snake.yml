@@ -13,10 +13,13 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
+      - name: Create dist directory if not exists
+        run: mkdir -p dist
+
       - name: Generate Snake Animation
         uses: Platane/snk@v2.0.0
         with:
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Commit and push if there are changes
@@ -27,4 +30,4 @@ jobs:
           git commit -m "Generated snake animation"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
