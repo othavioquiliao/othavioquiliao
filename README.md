@@ -53,9 +53,9 @@
 <br/>
 
 <div align="right">
-    <img align="right" height="180" width="320" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif" alt="Gif" />
+    <img align="right" height="180" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif" alt="Gif" />
 </div>
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=othavioquiliao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=othavioquiliao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="180"  width="380" alt="languages graph" />
 </div>
