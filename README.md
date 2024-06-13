@@ -1,10 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+There!+👋;+I'm+Pedro+Muniz!" />
+    Ola me chamo Othavio!
 </h1>
-
 <h3 align="center">🔥 Apaixonado pelas arte de codar! 🔥</h3>
-
-<br/>
 
 <div align="center">
     🔭 Atualmente estou trabalhando no projeto <a href="https://github.com/othavioquiliao/IndicaHi">IndicaHi</a><br/>
@@ -65,7 +62,6 @@
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
     <h2>🐍 Contribuições 🐍</h2>
@@ -73,7 +69,6 @@
     <img alt="Cobra comendo minhas contribuiçao" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<br/>
 <br/>
 
 <div align="right">
