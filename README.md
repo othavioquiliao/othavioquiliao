@@ -26,7 +26,7 @@
   </a>
 </div>
 
- <hr/>
+<br/><br/>
 
 <h2 align="center">⚒️ Linguages - Frameworks - Ferramentas ⚒️</h2>
 <br/>
@@ -66,7 +66,7 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
 </div>
 <br/>
-<hr/>
+<br/>
 
 <div align="center">
   <h2>🐍 Contribuições 🐍</h2>
