@@ -21,9 +21,7 @@
     </a>
 </div>
 
-<br/>
-
-<h2 align="center">⚒️ Linguages - Frameworks - Ferramentas ⚒️</h2>
+<h1 align="center">⚒️ Linguages - Frameworks - Ferramentas ⚒️</h1>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
