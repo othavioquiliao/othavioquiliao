@@ -1,7 +1,7 @@
 <h1 align="center">Me chamo Othavio Quilião!</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/othavioquiliao/othavioquiliao/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/othavioquiliao/othavioquiliao/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="left">
