@@ -1,14 +1,3 @@
-<h1 align="center">Me chamo Othavio Quilião!</h1>
-
-<div align="right">
-  <img align="right" height="190" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif" alt="Gif" />
-</div>
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=othavioquiliao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
@@ -102,15 +91,12 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br>
 
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<div align="right">
+  <img align="right" height="190" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif" alt="Gif" />
 </div>
 
-<br/>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=othavioquiliao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
