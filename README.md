@@ -2,19 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">🔥 Apaixonado pelas arte de codar! 🔥</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 I’m currently working on **a marketplace**
+🔭 Atualmente estou trabalhando no projeto [IndicaHi](https://github.com/othavioquiliao/IndicaHi)
 
-🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌱 Estou estudando **Next, Astro e Svelte 5!**
 
  </div>
 
@@ -32,7 +28,7 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguages - Frameworks - Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="svelte logo" />
@@ -73,23 +69,17 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contribuições 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobra comendo minhas contribuiçao" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-<br/><br/><br/>
-
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <br>
 
 <div align="right">
-  <img align="right" height="190" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif" alt="Gif" />
+  <img align="right" height="180" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif" alt="Gif" />
 </div>
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=othavioquiliao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=othavioquiliao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
