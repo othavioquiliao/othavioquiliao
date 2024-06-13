@@ -50,7 +50,6 @@
 
 <div align="center">
     <h2>🐍 Contribuições 🐍</h2>
-    <br/>
     <img alt="Cobra comendo minhas contribuiçao" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
