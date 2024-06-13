@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<br/><br/>
+<br/>
 
 <h2 align="center">⚒️ Linguages - Frameworks - Ferramentas ⚒️</h2>
 <br/>
