@@ -29,7 +29,6 @@
 <br/>
 
 <h2 align="center">⚒️ Linguages - Frameworks - Ferramentas ⚒️</h2>
-<br/>
 <div align="center">
 
 <div align="center">
@@ -52,7 +51,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
 </div>
-
+<br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
