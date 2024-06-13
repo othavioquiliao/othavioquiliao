@@ -53,7 +53,7 @@
 <br/>
 
 <div align="right">
-    <img align="right" height="180" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif" alt="Gif" />
+    <img align="right" height="180" width="320" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif" alt="Gif" />
 </div>
 
 <div align="left">
