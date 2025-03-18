@@ -1,7 +1,5 @@
 <h1 align="center">Othavio Quilião</h1>
 
-<h3 align="center">🔥 Enthusiast of the Art of Coding! 🔥</h3>
-
 <div align="center">
   🔭 Currently developing <a href="https://github.com/othavioquiliao/IndicaHi">IndicaHi</a><br />
   🌱 Expanding my skills with <strong>Next.js, Astro, and Svelte 5</strong>
