@@ -31,7 +31,7 @@
 
 ### about
 
-AI-native developer focused on **agent tooling**, **Rust CLIs** and a finely-riced Linux desktop. I build under the **noctua** umbrella 🦉
+I'm a developer who loves solving real problems and building things I'd actually want to use. Right now I'm deep in **AI agent tooling**, **Rust CLIs**, and a Linux setup I keep over-engineering just for fun. 🦉
 
 `Rust` · `TypeScript` · `Svelte 5` · `Next.js` · `Astro` · `Claude Code` · `Hyprland`
 
