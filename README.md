@@ -23,9 +23,10 @@
 ### /* contributions */
 
 <table>
-<tr><td><code>01</code></td><td><b><a href="https://github.com/builderz-labs/mission-control">mission-control</a></b></td><td>contributor</td><td>Open-source dashboard to orchestrate AI agent fleets.</td></tr>
+<tr><td><code>01</code></td><td><b><a href="https://github.com/ogulcancelik/herdr">herdr</a></b></td><td>contributor</td><td>Terminal workspace manager to herd your AI coding agents.</td></tr>
 <tr><td><code>02</code></td><td><b><a href="https://github.com/rtk-ai/rtk">rtk</a></b></td><td>contributor</td><td>Rust CLI proxy that cuts 60 to 90 percent of LLM tokens on common dev commands.</td></tr>
-<tr><td><code>03</code></td><td><b><a href="https://github.com/SikandarJODD/svelte-animations">svelte-animations</a></b></td><td>contributor</td><td>Svelte Magic UI and Aceternity components built with Tailwind and Framer Motion.</td></tr>
+<tr><td><code>03</code></td><td><b><a href="https://github.com/builderz-labs/mission-control">mission-control</a></b></td><td>contributor</td><td>Open-source dashboard to orchestrate AI agent fleets.</td></tr>
+<tr><td><code>04</code></td><td><b><a href="https://github.com/SikandarJODD/svelte-animations">svelte-animations</a></b></td><td>contributor</td><td>Svelte Magic UI and Aceternity components built with Tailwind and Framer Motion.</td></tr>
 </table>
 
 <p align="center">
