@@ -27,28 +27,28 @@
 <!-- ABOUT + LANGUAGES -->
 <table>
 <tr>
-<td valign="top" width="56%">
+<td valign="top" width="54%">
 
 ### about
 
 AI-native developer focused on **agent tooling**, **Rust CLIs** and a finely-riced Linux desktop. I build under the **noctua** umbrella 🦉
 
-`Rust` · `TypeScript` · `Svelte 5` · `Next.js` · `Claude Code` · `Hyprland`
-
-### ⚡ currently building
-
-- 🦉 **[agent-bar](https://github.com/othavi0/agent-bar)** — Waybar quota monitor for Claude Code · `Rust`
-- 🤖 **[noctua-skills](https://github.com/othavi0/noctua-skills)** — skill library for Claude Code agents
-- 🌐 **emach** — e-commerce platform · `Next.js 15` · `Svelte 5`
+`Rust` · `TypeScript` · `Svelte 5` · `Next.js` · `Astro` · `Claude Code` · `Hyprland`
 
 </td>
-<td valign="top" width="44%">
+<td valign="middle" width="46%">
 
 <img alt="Most used languages" src="https://www.othavio.com/api/cards/langs" />
 
 </td>
 </tr>
 </table>
+
+### ⚡ currently building
+
+- 🦉 **[agent-bar](https://github.com/othavi0/agent-bar)** — Waybar quota monitor for Claude Code · `Rust`
+- 🤖 **[noctua-skills](https://github.com/othavi0/noctua-skills)** — skill library for Claude Code agents
+- 🌐 **emach** — e-commerce platform · `Next.js 15` · `Svelte 5`
 
 ### 📈 activity
 
@@ -80,8 +80,6 @@ AI-native developer focused on **agent tooling**, **Rust CLIs** and a finely-ric
   <img alt="" width="100%"
        src="https://capsule-render.vercel.app/api?type=waving&color=0:c678dd,50:61afef,100:282c34&height=110&section=footer" />
 </p>
-
-<p align="center"><sub>previously <a href="https://github.com/othavioquiliao">@othavioquiliao</a> · built under the noctua umbrella 🦉</sub></p>
 
 <!--
 ============================================================
