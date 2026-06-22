@@ -48,7 +48,6 @@ I'm a developer who loves solving real problems and building things I'd actually
 
 - **[agent-bar](https://github.com/othavi0/agent-bar)** — Waybar quota monitor for Claude Code · `Rust`
 - **[noctua-skills](https://github.com/othavi0/noctua-skills)** — skill library for Claude Code agents
-- **emach** — e-commerce platform · `Next.js 15` · `Svelte 5`
 
 <p align="center">
   <img alt="3D contribution calendar (One Dark Pro)" width="100%" src="./profile-3d-contrib/profile-one-dark.svg" />
