@@ -44,7 +44,7 @@ AI-native developer focused on **agent tooling**, **Rust CLIs** and a finely-ric
 </td>
 <td valign="top" width="44%">
 
-<img alt="Most used languages" src="https://othavio.com/api/cards/langs" />
+<img alt="Most used languages" src="https://www.othavio.com/api/cards/langs" />
 
 </td>
 </tr>
@@ -54,17 +54,17 @@ AI-native developer focused on **agent tooling**, **Rust CLIs** and a finely-ric
 
 <p align="center">
   <a href="https://github.com/othavi0/agent-bar">
-    <img alt="agent-bar" src="https://othavio.com/api/cards/pin?repo=agent-bar" />
+    <img alt="agent-bar" src="https://www.othavio.com/api/cards/pin?repo=agent-bar" />
   </a>
   <a href="https://github.com/othavi0/noctua-skills">
-    <img alt="noctua-skills" src="https://othavio.com/api/cards/pin?repo=noctua-skills" />
+    <img alt="noctua-skills" src="https://www.othavio.com/api/cards/pin?repo=noctua-skills" />
   </a>
   <br/>
   <a href="https://github.com/othavi0/omarchy-noctua-theme">
-    <img alt="omarchy-noctua-theme" src="https://othavio.com/api/cards/pin?repo=omarchy-noctua-theme" />
+    <img alt="omarchy-noctua-theme" src="https://www.othavio.com/api/cards/pin?repo=omarchy-noctua-theme" />
   </a>
   <a href="https://github.com/othavi0/othavio-site">
-    <img alt="othavio-site" src="https://othavio.com/api/cards/pin?repo=othavio-site" />
+    <img alt="othavio-site" src="https://www.othavio.com/api/cards/pin?repo=othavio-site" />
   </a>
 </p>
 
