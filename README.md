@@ -2,7 +2,7 @@
 ============================================================
   othavi0 — profile README
   Palette: One Dark Pro  (#282c34 bg · #61afef blue · #c678dd purple · #abb2bf text)
-  🔧 Os cards (langs/pin) são self-hosted em othavio.com/api/cards/* — render
+  🔧 O card de linguagens é self-hosted em www.othavio.com/api/cards/langs — render
      próprio via GitHub GraphQL, sem depender de serviço de terceiro. Ver NOTES no fim.
 ============================================================
 -->
@@ -50,30 +50,6 @@ AI-native developer focused on **agent tooling**, **Rust CLIs** and a finely-ric
 </tr>
 </table>
 
-### 📌 pinned
-
-<p align="center">
-  <a href="https://github.com/othavi0/agent-bar">
-    <img alt="agent-bar" src="https://www.othavio.com/api/cards/pin?repo=agent-bar" />
-  </a>
-  <a href="https://github.com/othavi0/noctua-skills">
-    <img alt="noctua-skills" src="https://www.othavio.com/api/cards/pin?repo=noctua-skills" />
-  </a>
-  <br/>
-  <a href="https://github.com/othavi0/omarchy-noctua-theme">
-    <img alt="omarchy-noctua-theme" src="https://www.othavio.com/api/cards/pin?repo=omarchy-noctua-theme" />
-  </a>
-  <a href="https://github.com/othavi0/othavio-site">
-    <img alt="othavio-site" src="https://www.othavio.com/api/cards/pin?repo=othavio-site" />
-  </a>
-</p>
-
-### ⏱️ coding time
-
-<!--START_SECTION:waka-->
-_WakaTime stats will appear here once configured (see NOTES at the bottom)._
-<!--END_SECTION:waka-->
-
 ### 📈 activity
 
 <p align="center">
@@ -110,13 +86,9 @@ _WakaTime stats will appear here once configured (see NOTES at the bottom)._
 <!--
 ============================================================
   NOTES — setup pendente (não aparece renderizado)
-  1) CARDS self-hosted: a rota app/api/cards/[card] vive no repo othavio-site.
+  1) CARD self-hosted: a rota app/api/cards/[card] vive no repo othavio-site.
      Deploy o site e configure a env var GH_README_TOKEN (um GitHub PAT, read-only)
-     no projeto Vercel. Enquanto não estiver setada, os cards mostram "unavailable".
-  2) WAKATIME: crie conta em wakatime.com, instale o plugin no Neovim, e adicione os
-     secrets WAKATIME_API_KEY e GH_TOKEN (PAT com scope repo) neste repo. O workflow
-     waka.yml preenche a seção "coding time" automaticamente.
-  3) noctua-skills: tornar o repo público para o pin renderizar.
-  4) O 3D (profile-one-dark.svg) é gerado pela Action profile-3d.yml na 1ª execução.
+     no projeto Vercel. Enquanto não estiver setada, o card de linguagens mostra "unavailable".
+  2) O 3D (profile-one-dark.svg) é gerado pela Action profile-3d.yml na 1ª execução.
 ============================================================
 -->
