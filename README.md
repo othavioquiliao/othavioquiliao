@@ -46,25 +46,12 @@ I'm a developer who loves solving real problems and building things I'd actually
 
 ### currently building
 
-- 🦉 **[agent-bar](https://github.com/othavi0/agent-bar)** — Waybar quota monitor for Claude Code · `Rust`
-- 🤖 **[noctua-skills](https://github.com/othavi0/noctua-skills)** — skill library for Claude Code agents
-- 🌐 **emach** — e-commerce platform · `Next.js 15` · `Svelte 5`
+- **[agent-bar](https://github.com/othavi0/agent-bar)** — Waybar quota monitor for Claude Code · `Rust`
+- **[noctua-skills](https://github.com/othavi0/noctua-skills)** — skill library for Claude Code agents
+- **emach** — e-commerce platform · `Next.js 15` · `Svelte 5`
 
 <p align="center">
   <img alt="3D contribution calendar (One Dark Pro)" width="100%" src="./profile-3d-contrib/profile-one-dark.svg" />
-</p>
-
-<!-- CONTACT -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/othavioquiliao/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-282c34?style=for-the-badge&logo=linkedin&logoColor=61afef" />
-  </a>
-  <a href="https://x.com/NoctuaCore">
-    <img alt="X / Twitter" src="https://img.shields.io/badge/X-282c34?style=for-the-badge&logo=x&logoColor=abb2bf" />
-  </a>
-  <a href="mailto:obsidianlab3d@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-282c34?style=for-the-badge&logo=gmail&logoColor=e06c75" />
-  </a>
 </p>
 
 <p align="center">
