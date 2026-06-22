@@ -44,20 +44,11 @@ I'm a developer who loves solving real problems and building things I'd actually
 </tr>
 </table>
 
-### ⚡ currently building
+### currently building
 
 - 🦉 **[agent-bar](https://github.com/othavi0/agent-bar)** — Waybar quota monitor for Claude Code · `Rust`
 - 🤖 **[noctua-skills](https://github.com/othavi0/noctua-skills)** — skill library for Claude Code agents
 - 🌐 **emach** — e-commerce platform · `Next.js 15` · `Svelte 5`
-
-### 📈 activity
-
-<p align="center">
-  <img alt="Contribution activity (last 31 days)" width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=othavi0&bg_color=282c34&color=61afef&line=c678dd&point=e5c07b&area=true&hide_border=true&height=280" />
-</p>
-
-### 🧊 contributions in 3D
 
 <p align="center">
   <img alt="3D contribution calendar (One Dark Pro)" width="100%" src="./profile-3d-contrib/profile-one-dark.svg" />
