@@ -17,7 +17,7 @@
 
 <table>
 <tr><td><code>01</code></td><td><b><a href="https://github.com/othavi0/agent-bar">agent-bar</a></b></td><td>author</td><td>Waybar integration and TUI to track Claude Code usage in real time.</td></tr>
-<tr><td><code>02</code></td><td><b><a href="https://github.com/othavi0/noctua-skills">noctua-skills</a></b></td><td>author</td><td>Skill library for Claude Code agents.</td></tr>
+<tr><td><code>02</code></td><td><b><a href="https://github.com/othavi0/skills">skills</a></b></td><td>author</td><td>Skill library for Claude Code agents.</td></tr>
 </table>
 
 ### /* contributions */
@@ -36,6 +36,6 @@
 <!--
 NOTES — pendências (não renderiza)
 1) Hero vive em othavio-site (app/api/hero). Deploy do site publica em www.othavio.com/api/hero.
-2) noctua-skills: tornar o repo público para o link resolver para visitantes.
+2) skills (ex-noctua-skills): repo público, instalável via npx skills add othavi0/skills.
 3) O 3D (profile-one-dark.svg) é regenerado diariamente pela Action profile-3d.yml.
 -->
